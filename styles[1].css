@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+  background-image: url("https://e0.pxfuel.com/wallpapers/201/996/desktop-wallpaper-cute-aesthetic-science-background-novocom-top.jpg");
+}
+.cen {
+  border: 3px solid white;
+  padding: 10px;
+  background-image: url("desktop-wallpaper-cute-aesthetic-science-background-novocom-top.jpg");
+  color: whitesmoke;
+  border-radius:  50px ;
+  height: 400px;
+  width: 400px;
+  box-shadow: 5px 5px 5px  5px red;
+}
+.cen:hover {
+  background-image: url("vllkyt3bieaiqalaog.jpg");
+  box-shadow:5px 5px yellow;
+  border-radius: 50px 0px 50px 0px;
+}
+#box {
+  border: 2px solid whitesmoke;
+}
+.a1 {
+  transition: transform 0.5s ease-in-out;
+  color: red;
+}
+input{
+    background-color: transparent;
+    border: none;
+    color: wheat;
+}
+.a1:hover {
+  transform: scale(1.2);
+}
+.a2 {
+  transition: transform 0.5s ease-in-out;
+  color: purple;
+}
+.a2:hover {
+  transform: scale(1.2);
+}
+.a3 {
+  transition: transform 0.5s ease-in-out;
+  color: peru;
+}
+.a2:hover {
+  transform: scale(1.2);
+}
+.a4 {
+  transition: transform 0.5s ease-in-out;
+  color: green;
+}
+.a4:hover {
+  transform: scale(1.2);
+}
+.a5 {
+  transition: transform 0.5s ease-in-out;
+  color: salmon;
+}
+.a5:hover {
+  transform: scale(1.2);
+}
